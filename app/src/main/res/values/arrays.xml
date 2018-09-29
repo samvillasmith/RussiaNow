@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preference_sector_values">
+        <item>@string/sector_default_value</item>
+        <item>@string/sector_culture_value</item>
+        <item>@string/sector_section_business_value</item>
+        <item>@string/sector_cities_value</item>
+        <item>@string/sector_sport_value</item>
+    </string-array>
+    <string-array name="preferences_order_by_labels">
+        <item>@string/sector_arrange_by_mostrecent_label</item>
+        <item>@string/sector_arrange_by_oldest</item>
+        <item>@string/sector_arrange_by_relevance_label</item>
+    </string-array>
+    <string-array name="preferences_sector_labels">
+        <item>@string/sector_default_label</item>
+        <item>@string/sector_culture</item>
+        <item>@string/sector_section_business_label</item>
+        <item>@string/sector_cities</item>
+        <item>@string/sector_sport</item>
+    </string-array>
+    <string-array name="preferences_arrange_by_values">
+        <item>@string/sector_arrange_by_mostrecent_value</item>
+        <item>@string/sector_arrange_by_oldest_value</item>
+        <item>@string/sector_arrange_by_relevance_value</item>
+    </string-array>
+</resources>

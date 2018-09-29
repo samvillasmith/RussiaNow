@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margins">14dp</dimen>
+    <dimen name="marginsLeft">14dp</dimen>
+    <dimen name="images">80dp</dimen>
+    <dimen name="text">14sp</dimen>
+</resources>

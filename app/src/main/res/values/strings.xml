@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_id">Russia Now</string>
+    <string name="response">response</string>
+    <string name="results">results</string>
+    <string name="webTitle">webTitle</string>
+    <string name="sectionName">sectionName</string>
+    <string name="webUrl">webUrl</string>
+    <string name="webPublicationDate">webPublicationDate</string>
+    <string name="fields">fields</string>
+    <string name="tags">tags</string>
+    <string name="Query">Query</string>
+    <string name="jsonNotFound">JSON Not Found</string>
+    <string name="QueryUtils">QueryUtils</string>
+    <string name="ProblemWithResults">Problem parsing the News JSON results</string>
+    <string name="HTTPSError">Problem making the HTTP request</string>
+    <string name="ErrorWithUrl">Error with creating URL</string>
+    <string name="ErrorCode">Error response code:</string>
+    <string name="JSONError1">Unable to Retrieve Results</string>
+
+    <string name="sector_arrange_by_mostrecent_label">Newest</string>
+    <string name="sector_arrange_by_mostrecent_value">newest</string>
+
+    <string name="sector_arrange_by_oldest">Oldest</string>
+    <string name="sector_arrange_by_oldest_value">oldest</string>
+
+    <string name="sector_arrange_by_relevance_label">Relevance</string>
+    <string name="sector_arrange_by_relevance_value">relevance</string>
+
+    <string name="preferences_sector_label">Sector</string>
+    <string name="preferences_sector_key">sector</string>
+
+    <string name="sector_default"></string>
+    <string name="sector_default_label">Default</string>
+    <string name="sector_default_value">default</string>
+
+    <string name="sector_culture">Culture</string>
+    <string name="sector_culture_value" translatable="false">culture</string>
+
+    <string name="sector_section_business_label">Business</string>
+    <string name="sector_section_business_value" translatable="false">business</string>
+
+    <string name="sector_cities">Cities</string>
+    <string name="sector_cities_value" translatable="false">cities</string>
+
+    <string name="sector_sport">Sport</string>
+    <string name="sector_sport_value" translatable="false">sport</string>
+
+    <string name="preferences_menu">Preferences</string>
+    <string name="preferences">Display Preferences</string>
+
+    <string name="preferences_sector_order_by_label">Arrange by</string>
+    <string name="preferences_sector_order_by_key">arrange_by</string>
+
+    <string name="settings_order_by_default">@string/sector_arrange_by_mostrecent_value</string>
+
+
+
+
+</resources>
+
